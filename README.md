@@ -1,4 +1,4 @@
-# berlin-anmeldung-notification
+# berlin-auslanderbehorde-notification
 
 This is a simple service created to help those developers (or people who understend a bit about how to run this code) who lives or is about to live in Berlin. This is a project to run locally, used only for personal reasons. In case you want to improve or turn it into a product, do it by your own risk.
 
